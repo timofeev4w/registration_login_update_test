@@ -2,8 +2,8 @@
 
 return array(
     'servername' => "localhost",
-    'dbuser' => "laravel",
-    'password' => "4691123",
+    'dbuser' => "root",
+    'password' => "root",
     'dbname' => "5workDB"
 );
 
